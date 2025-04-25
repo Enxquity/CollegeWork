@@ -1,6 +1,6 @@
 .grid-container {
     display: grid;
-    grid-template-rows: 8vh 80vh 12vh;
+    grid-template-rows: 7vh 80vh 13vh;
 }
 
 .header {
